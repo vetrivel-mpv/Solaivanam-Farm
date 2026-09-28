@@ -1,0 +1,6 @@
+{
+  "name": "SOLAIVANAM",
+  "description": "Farm-to-Home Order Management and Bluetooth Thermal Printing System for organic farm initiatives",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
